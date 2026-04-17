@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    background: #1e293b;
+}
+
+nav {
+    text-align: center;
+    background: #334155;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #38bdf8;
+}
+
+section {
+    padding: 40px;
+}
+
+h2 {
+    color: #38bdf8;
+}
+
+.skill-box span {
+    display: inline-block;
+    background: #1e293b;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.project {
+    background: #1e293b;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1e293b;
+}
